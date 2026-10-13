@@ -27,7 +27,7 @@ try {
     console.log("Course completion successfully falsified and submitted.");
 } catch (err) {
     console.error("Error executing SCORM overrides:", err);
-}om
+}
 ```
 
 Chrome DevTools will give you a disclaimer about pasting content that you don't understand into the console. They're right, you should be careful about that. It's dangerous. :)
